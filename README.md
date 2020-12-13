@@ -1,1 +1,1 @@
-# AfrikaLive
+# AfrikaLive Website frontend
